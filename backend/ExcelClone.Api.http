@@ -1,0 +1,6 @@
+@ExcelClone.Api_HostAddress = http://localhost:5124
+
+GET {{ExcelClone.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
